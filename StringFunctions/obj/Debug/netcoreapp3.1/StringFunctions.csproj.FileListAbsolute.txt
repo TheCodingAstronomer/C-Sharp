@@ -1,0 +1,13 @@
+C:\Users\Nihal\Documents\CSPRO\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.exe
+C:\Users\Nihal\Documents\CSPRO\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.deps.json
+C:\Users\Nihal\Documents\CSPRO\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.runtimeconfig.json
+C:\Users\Nihal\Documents\CSPRO\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.runtimeconfig.dev.json
+C:\Users\Nihal\Documents\CSPRO\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.dll
+C:\Users\Nihal\Documents\CSPRO\StringFunctions\bin\Debug\netcoreapp3.1\StringFunctions.pdb
+C:\Users\Nihal\Documents\CSPRO\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Nihal\Documents\CSPRO\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.AssemblyInfoInputs.cache
+C:\Users\Nihal\Documents\CSPRO\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.AssemblyInfo.cs
+C:\Users\Nihal\Documents\CSPRO\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.dll
+C:\Users\Nihal\Documents\CSPRO\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.pdb
+C:\Users\Nihal\Documents\CSPRO\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.genruntimeconfig.cache
+C:\Users\Nihal\Documents\CSPRO\StringFunctions\obj\Debug\netcoreapp3.1\StringFunctions.csprojAssemblyReference.cache

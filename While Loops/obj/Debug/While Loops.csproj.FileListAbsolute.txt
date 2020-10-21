@@ -1,0 +1,5 @@
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\While Loops\bin\Debug\While Loops.exe
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\While Loops\bin\Debug\While Loops.pdb
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\While Loops\obj\Debug\While Loops.csprojResolveAssemblyReference.cache
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\While Loops\obj\Debug\While Loops.exe
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\While Loops\obj\Debug\While Loops.pdb

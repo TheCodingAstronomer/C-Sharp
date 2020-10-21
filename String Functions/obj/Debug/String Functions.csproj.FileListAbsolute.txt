@@ -1,0 +1,5 @@
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\String Functions\obj\Debug\String Functions.csprojResolveAssemblyReference.cache
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\String Functions\bin\Debug\String Functions.exe
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\String Functions\bin\Debug\String Functions.pdb
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\String Functions\obj\Debug\String Functions.exe
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\String Functions\obj\Debug\String Functions.pdb

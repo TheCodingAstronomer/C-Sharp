@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello World!", "Hello World!.csproj", "{97F0A8E1-0C67-44A0-8306-D4042CFC3611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawing A Shape", "..\Drawing A Shape\Drawing A Shape.csproj", "{97A33269-E3C9-4B4E-ADDF-F3FA8DBA2C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "..\Variables\Variables.csproj", "{264EF494-AD74-4FDE-AC2C-C7E5CAAC55D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97F0A8E1-0C67-44A0-8306-D4042CFC3611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F0A8E1-0C67-44A0-8306-D4042CFC3611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F0A8E1-0C67-44A0-8306-D4042CFC3611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97F0A8E1-0C67-44A0-8306-D4042CFC3611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A33269-E3C9-4B4E-ADDF-F3FA8DBA2C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A33269-E3C9-4B4E-ADDF-F3FA8DBA2C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A33269-E3C9-4B4E-ADDF-F3FA8DBA2C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A33269-E3C9-4B4E-ADDF-F3FA8DBA2C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264EF494-AD74-4FDE-AC2C-C7E5CAAC55D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264EF494-AD74-4FDE-AC2C-C7E5CAAC55D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264EF494-AD74-4FDE-AC2C-C7E5CAAC55D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264EF494-AD74-4FDE-AC2C-C7E5CAAC55D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

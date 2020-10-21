@@ -1,0 +1,5 @@
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\Variables\bin\Debug\Variables.exe
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\Variables\bin\Debug\Variables.pdb
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\Variables\obj\Debug\Variables.exe
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\Variables\obj\Debug\Variables.pdb

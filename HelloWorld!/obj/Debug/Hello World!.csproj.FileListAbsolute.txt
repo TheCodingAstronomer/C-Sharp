@@ -1,0 +1,5 @@
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\Hello World!\obj\Debug\Hello World!.csprojResolveAssemblyReference.cache
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\Hello World!\bin\Debug\Hello World!.exe
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\Hello World!\bin\Debug\Hello World!.pdb
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\Hello World!\obj\Debug\Hello World!.exe
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\Hello World!\obj\Debug\Hello World!.pdb

@@ -1,0 +1,5 @@
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\Basic Calculator\bin\Debug\Basic Calculator.exe
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\Basic Calculator\bin\Debug\Basic Calculator.pdb
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\Basic Calculator\obj\Debug\Basic Calculator.csprojResolveAssemblyReference.cache
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\Basic Calculator\obj\Debug\Basic Calculator.exe
+C:\Users\nihal\OneDrive\Documents\PROs\C#PRO\Basic Calculator\obj\Debug\Basic Calculator.pdb

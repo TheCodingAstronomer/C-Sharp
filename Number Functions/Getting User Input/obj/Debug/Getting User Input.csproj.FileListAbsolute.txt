@@ -1,0 +1,5 @@
+C:\Users\nihal\OneDrive\Documents\SharpDevelop Projects\Number Functions\Getting User Input\bin\Debug\Getting User Input.exe
+C:\Users\nihal\OneDrive\Documents\SharpDevelop Projects\Number Functions\Getting User Input\bin\Debug\Getting User Input.pdb
+C:\Users\nihal\OneDrive\Documents\SharpDevelop Projects\Number Functions\Getting User Input\obj\Debug\Getting User Input.csprojResolveAssemblyReference.cache
+C:\Users\nihal\OneDrive\Documents\SharpDevelop Projects\Number Functions\Getting User Input\obj\Debug\Getting User Input.exe
+C:\Users\nihal\OneDrive\Documents\SharpDevelop Projects\Number Functions\Getting User Input\obj\Debug\Getting User Input.pdb

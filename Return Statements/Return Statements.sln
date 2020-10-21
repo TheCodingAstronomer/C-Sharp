@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return Statements", "Return Statements.csproj", "{873B4DDD-006D-48D4-815A-13C2A7EF959B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{873B4DDD-006D-48D4-815A-13C2A7EF959B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873B4DDD-006D-48D4-815A-13C2A7EF959B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873B4DDD-006D-48D4-815A-13C2A7EF959B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873B4DDD-006D-48D4-815A-13C2A7EF959B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

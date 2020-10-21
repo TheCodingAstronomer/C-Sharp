@@ -1,0 +1,5 @@
+C:\Users\nihal\OneDrive\Documents\SharpDevelop Projects\Number Functions\bin\Debug\Number Functions.exe
+C:\Users\nihal\OneDrive\Documents\SharpDevelop Projects\Number Functions\bin\Debug\Number Functions.pdb
+C:\Users\nihal\OneDrive\Documents\SharpDevelop Projects\Number Functions\obj\Debug\Number Functions.csprojResolveAssemblyReference.cache
+C:\Users\nihal\OneDrive\Documents\SharpDevelop Projects\Number Functions\obj\Debug\Number Functions.exe
+C:\Users\nihal\OneDrive\Documents\SharpDevelop Projects\Number Functions\obj\Debug\Number Functions.pdb

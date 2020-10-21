@@ -1,0 +1,13 @@
+C:\Users\Nihal\Documents\CSPRO\Hello World!\bin\Debug\netcoreapp3.1\Hello World!.exe
+C:\Users\Nihal\Documents\CSPRO\Hello World!\bin\Debug\netcoreapp3.1\Hello World!.deps.json
+C:\Users\Nihal\Documents\CSPRO\Hello World!\bin\Debug\netcoreapp3.1\Hello World!.runtimeconfig.json
+C:\Users\Nihal\Documents\CSPRO\Hello World!\bin\Debug\netcoreapp3.1\Hello World!.runtimeconfig.dev.json
+C:\Users\Nihal\Documents\CSPRO\Hello World!\bin\Debug\netcoreapp3.1\Hello World!.dll
+C:\Users\Nihal\Documents\CSPRO\Hello World!\bin\Debug\netcoreapp3.1\Hello World!.pdb
+C:\Users\Nihal\Documents\CSPRO\Hello World!\obj\Debug\netcoreapp3.1\Hello World!.csprojAssemblyReference.cache
+C:\Users\Nihal\Documents\CSPRO\Hello World!\obj\Debug\netcoreapp3.1\Hello World!.csproj.CoreCompileInputs.cache
+C:\Users\Nihal\Documents\CSPRO\Hello World!\obj\Debug\netcoreapp3.1\Hello World!.AssemblyInfoInputs.cache
+C:\Users\Nihal\Documents\CSPRO\Hello World!\obj\Debug\netcoreapp3.1\Hello World!.AssemblyInfo.cs
+C:\Users\Nihal\Documents\CSPRO\Hello World!\obj\Debug\netcoreapp3.1\Hello World!.dll
+C:\Users\Nihal\Documents\CSPRO\Hello World!\obj\Debug\netcoreapp3.1\Hello World!.pdb
+C:\Users\Nihal\Documents\CSPRO\Hello World!\obj\Debug\netcoreapp3.1\Hello World!.genruntimeconfig.cache
